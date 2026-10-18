@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+out/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Coverage / test
+coverage/
+.pytest_cache/
