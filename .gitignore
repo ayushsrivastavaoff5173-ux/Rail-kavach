@@ -34,3 +34,8 @@ logs/
 # Coverage / test
 coverage/
 .pytest_cache/
+
+# Video files
+*.mp4
+*.avi
+*.mov
