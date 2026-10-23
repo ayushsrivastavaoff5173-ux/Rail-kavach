@@ -39,3 +39,13 @@ coverage/
 *.mp4
 *.avi
 *.mov
+
+backend/yolov8n.pt
+backend/videos/
+__pycache__/
+*.pyc
+
+backend/yolov8n.pt
+backend/videos/
+__pycache__/
+*.pyc
